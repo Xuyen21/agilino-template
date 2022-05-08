@@ -14,7 +14,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl             : "/agilino-template" # the subpath of your site, e.g. /blog
 url                 : "https://xuyen21.github.io/agilino-template/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
 locale              : "en_US"
-logo                : assets/img/logo/logo.png
+logo                : assets/img/logo/agilinoLogo.png
 logo2               : assets/img/logo/logo.png
 
 author:
